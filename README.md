@@ -1,5 +1,5 @@
 <h3 align="center">
-    AI Todo - AI-Powered Task Splitting
+    Plantern.AI - AI-Powered Task Splitting
 </h3>
 
 <p align="center">
@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-  <img alt="Screenshot of AI Todo" src="./docs/screenshot.png"/>
+  <img alt="Screenshot of Plantern.AI" src="./docs/screenshot.png"/>
 </p>
 
-# AI Todo — AI-Powered Task Splitting
+# Plantern.AI — AI-Powered Task Splitting
 
 [简体中文](docs/README_CN.md)
 
-AI Todo is an AI-powered task management tool that takes user input and breaks it down into actionable, smaller tasks. It's designed to help users tackle large tasks efficiently by automating task breakdowns and making to-do lists more manageable.
+Plantern.AI is an AI-powered task management tool that takes user input and breaks it down into actionable, smaller tasks. It's designed to help users tackle large tasks efficiently by automating task breakdowns and making to-do lists more manageable.
 
 ## Features
 - **AI-Driven Task Breakdown**: Automatically split complex tasks into smaller, manageable steps.
@@ -46,8 +46,8 @@ AI Todo is an AI-powered task management tool that takes user input and breaks i
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/remi-guan/AI-Todo.git
-   cd AI-Todo
+   git clone https://github.com/remi-guan/Plantern.AI.git
+   cd Plantern.AI
    ```
 
 2. Install dependencies and initialize the database:

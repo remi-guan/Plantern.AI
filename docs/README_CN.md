@@ -1,5 +1,5 @@
 <h3 align="center">
-    AI Todo - AI驱动的任务分解
+    Plantern.AI - AI驱动的任务分解
 </h3>
 
 <p align="center">
@@ -11,12 +11,12 @@
 </p>
 
 <p align="center">
-  <img alt="AI Todo的截图" src="./screenshot.png"/>
+  <img alt="Plantern.AI的截图" src="./screenshot.png"/>
 </p>
 
-# AI Todo — AI驱动的任务分解
+# Plantern.AI — AI驱动的任务分解
 
-AI Todo 是一种由AI驱动的任务管理工具，可以将用户输入的任务分解成可执行的小任务。设计的目的是通过自动分解任务，帮助用户高效地处理大任务，使得待办事项更加可管理。
+Plantern.AI 是一种由AI驱动的任务管理工具，可以将用户输入的任务分解成可执行的小任务。设计的目的是通过自动分解任务，帮助用户高效地处理大任务，使得待办事项更加可管理。
 
 ## 功能
 - **AI驱动的任务分解**：自动将复杂任务分解成更小、易于管理的步骤。
@@ -44,8 +44,8 @@ AI Todo 是一种由AI驱动的任务管理工具，可以将用户输入的任�
 1. 克隆仓库：
 
    ```bash
-   git clone https://github.com/remi-guan/AI-Todo.git
-   cd AI-Todo
+   git clone https://github.com/remi-guan/Plantern.AI.git
+   cd Plantern.AI
    ```
 
 2. 安装依赖并初始化数据库：

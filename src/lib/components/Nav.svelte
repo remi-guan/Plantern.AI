@@ -9,7 +9,7 @@
     </label>
   </div>
   <div class="navbar-center">
-    <a aria-label="Navigate to Home" class="btn btn-ghost text-xl font-bold" href="/">AI Todo</a>
+    <a aria-label="Navigate to Home" class="btn btn-ghost text-xl font-bold" href="/">Plantern.AI</a>
   </div>
   <div class="navbar-end gap-2">
     <button
